@@ -41,8 +41,7 @@ More projects and enhancements coming soon:
 
 **Abhishek Patil**  
 📍 Aspiring AI/ML Engineer | SQL Expert | Python Learner  
-🔗 [LinkedIn](https://www.linkedin.com) (add your actual LinkedIn link here)
+🔗 https://www.linkedin.com/in/abhishek-patil-062153148/
 
 ---
 
-⭐ Star this repo if you're learning Python too!
