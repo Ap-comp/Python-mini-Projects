@@ -1,0 +1,11 @@
+{
+  "best_cv_accuracy": 0.8328572835615089,
+  "val_accuracy": 0.8100558659217877,
+  "best_params": {
+    "clf__max_depth": 10,
+    "clf__max_features": null,
+    "clf__min_samples_leaf": 1,
+    "clf__min_samples_split": 5,
+    "clf__n_estimators": 200
+  }
+}

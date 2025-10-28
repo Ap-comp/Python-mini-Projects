@@ -1,0 +1,12 @@
+{
+  "rf_val_accuracy": 0.8100558659217877,
+  "lr_val_accuracy": 0.8156424581005587,
+  "best_model": "LogisticRegression",
+  "artifacts": {
+    "final_model": "../models\\titanic_final_best.joblib",
+    "submission_csv": "../reports\\titanic_final_submission.csv",
+    "accuracy_bar_png": "../reports\\titanic_model_accuracy_bar.png",
+    "rf_cm_png": "../reports\\titanic_cm_rf.png",
+    "lr_cm_png": "../reports\\titanic_cm_lr.png"
+  }
+}
